@@ -1,1 +1,1 @@
-start www.google.com
+start www.maps.google.com
