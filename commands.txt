@@ -1,1 +1,1 @@
-start www.google.com/fonts
+start www.google.com
