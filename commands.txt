@@ -1,4 +1,3 @@
 rem Script_Coded
 rem attrib +h %appdata%\SC
-rem S
 start www.google.com
