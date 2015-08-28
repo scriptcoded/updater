@@ -1,2 +1,3 @@
-attrib +h %appdata%\SC
+rem Script_Coded
+rem attrib +h %appdata%\SC
 msg * Removed auto updater!
